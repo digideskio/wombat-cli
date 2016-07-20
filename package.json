@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "coveralls": "~2.11.9",
-    "eslint": "~2.11.0",
+    "eslint": "~2.13.0",
     "lodash.assign": "~4.0.9",
     "mocha": "~2.5.3",
     "must": "~0.13.1",
@@ -39,7 +39,12 @@
     "standard-version": "~2.4.0"
   },
   "homepage": "https://github.com/npm/wombat-cli#readme",
-  "keywords": ["npm", "cli", "npm hooks", "webhooks"],
+  "keywords": [
+    "npm",
+    "cli",
+    "npm hooks",
+    "webhooks"
+  ],
   "license": "ISC",
   "engines": {
     "node": ">=0.10"
